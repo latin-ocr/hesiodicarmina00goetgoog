@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hesiodicarmina00goetgoog_0365.png"; bbox 0 0 2642 4684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 82 1300 1101 1552">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 82 1300 1101 1595">
+     <span class='ocr_line' id='line_1_1' title="bbox 82 1300 1101 1552; baseline -0.011 -8"><span class='ocrx_word' id='word_1_1' title='bbox 82 1300 1101 1552; x_wconf 59' lang='lat' dir='ltr'><strong>FRAGMENTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 490 1884 693 1896">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 490 1884 693 1896">
+     <span class='ocr_line' id='line_1_2' title="bbox 490 1884 693 1896; baseline -0.015 0"><span class='ocrx_word' id='word_1_2' title='bbox 490 1884 693 1896; x_wconf 58' lang='lat' dir='ltr'><strong>hm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1326 4684">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1326 4684">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1326 4684; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 0 0 1326 4684; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
